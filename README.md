@@ -22,4 +22,7 @@ TASKS:
       mouseout - ball stop
       different size of ball - every next ball more for 10%
       
+<<<<<<< HEAD
 ml
+=======
+>>>>>>> 78c82ce36d90106fa5a517cf1f72373d8e12557e
